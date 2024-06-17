@@ -13,11 +13,11 @@ Each team was given the same ECommerce dataset for the case study, containing 6 
 ## EDA
 ![Alt Text](plots/monthly_rev1.png)
 ![Alt Text](plots/monthly_rev2.png)
-![Alt Text](plots/monthly_rev3.png)
+![Alt Text](plots/monthly_rev3.png) <br>
 Found that significant low-point in sales always occurs during February, and peaks tend to happen between the months of August and December.
-![Alt Text](plots/monthly_for_all_items.png)
+![Alt Text](plots/monthly_for_all_items.png) <br>
 Found that month-to-month fluctuations were different for different item types.
-![Alt Text](plots/sankey_products.png)
+![Alt Text](plots/sankey_products.png) <br>
 Also considered product bundling as a business recommendation, showing common customer journeys through different products.
 
 ## Solution and Results
