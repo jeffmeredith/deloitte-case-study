@@ -14,11 +14,11 @@ Each team was given the same ECommerce dataset for the case study, containing 6 
 ![Alt Text](plots/monthly_rev1.png)
 ![Alt Text](plots/monthly_rev2.png)
 ![Alt Text](plots/monthly_rev3.png) <br>
-Found that significant low-point in sales always occurs during February, and peaks tend to happen between the months of August and December.
+Found that significant low-point in sales always occurs during February, and peaks tend to happen between the months of August and December. <br>
 ![Alt Text](plots/monthly_for_all_items.png) <br>
-Found that month-to-month fluctuations were different for different item types.
+Found that month-to-month fluctuations were different for different item types. <br>
 ![Alt Text](plots/sankey_products.png) <br>
-Also considered product bundling as a business recommendation, showing common customer journeys through different products.
+Also considered product bundling as a business recommendation, showing common customer journeys through different products. <br>
 
 ## Solution and Results
 Developed three regression models, all with similar performance to predict month-to-month demands of different product types.
