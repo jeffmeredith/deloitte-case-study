@@ -17,7 +17,7 @@ Each team was given the same ECommerce dataset for the case study, containing 6 
 Found that significant low-point in sales always occurs during February, and peaks tend to happen between the months of August and December. <br>
 ![Alt Text](plots/monthly_for_all_items.png) <br>
 Found that month-to-month fluctuations were different for different item types. <br>
-![Alt Text](plots/sankey_products.png) <br>
+<iframe src="./assets/plots/sankey_plot.html" width="100%" height="600px" frameborder="0"></iframe> <br>
 Also considered product bundling as a business recommendation, showing common customer journeys through different products. <br>
 
 ## Solution and Results
