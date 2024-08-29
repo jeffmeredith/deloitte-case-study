@@ -1,0 +1,6 @@
+title: "E-commerce Data Analysis"
+description: "Data analysis and visualizations from a mock e-commerce dataset as part of case study with Deloitte."
+baseurl: "/deloitte-case-study" # the subpath of your site, e.g. /blog
+url: "https://jeffmeredith.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-cayman
+markdown: kramdown
