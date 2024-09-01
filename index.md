@@ -21,10 +21,10 @@ Found that month-to-month fluctuations were different for different item types. 
 Also considered product bundling as a business recommendation, showing common customer journeys through different products. <br>
 
 ## Solution and Results
-Developed three regression models, all with similar performance to predict month-to-month demands of different product types.
+Developed three regression models, all with similar performance to predict month-to-month demands of different product types. <br>
 **Features:**
 * Month (Categorical)
-* Product Category
+* Product Category <br>
 **Models:**
 * Decision Tree Regressor: **R<sup>2</sup>: 0.97**
 * XGBoost: **R<sup>2</sup>: 0.97**
