@@ -27,6 +27,7 @@ Developed three regression models, all with similar performance to predict month
 * Month (Categorical)
 * Product Category 
 <br>
+<br>
 **Models:**
 * Decision Tree Regressor: **R<sup>2</sup>: 0.97**
 * XGBoost: **R<sup>2</sup>: 0.97**
