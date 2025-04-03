@@ -22,13 +22,13 @@ Also considered product bundling as a business recommendation, showing common cu
 
 ## Solution and Results
 Developed three regression models, all with similar performance to predict month-to-month demands of different product types. 
-<br>
-**Features:**
+
+#### Features:
 * Month (Categorical)
 * Product Category 
 <br>
-<br>
-**Models:**
+
+#### Models:
 * Decision Tree Regressor: **R<sup>2</sup>: 0.97**
 * XGBoost: **R<sup>2</sup>: 0.97**
 * Long Short-Term Memory (NN): **R<sup>2</sup>: 0.99**
